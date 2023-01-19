@@ -11,3 +11,5 @@
     touch menu.md
 
 ![photo of Seattle](images/seattle.jpeg)
+
+yes
